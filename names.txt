@@ -1,0 +1,20 @@
+ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   names.txt
+
+
+poojas211@Pooja_Solanki MINGW64 ~/Desktop/Angular/project (master)
+$ git commit -m "names.txt committed"
+[master (root-commit) dbd8040] names.txt committed
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 names.txt
+
+poojas211@Pooja_Solanki MINGW64 ~/Desktop/Angular/project (master)
+$
+Prashant Solanki
+
